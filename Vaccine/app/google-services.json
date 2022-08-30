@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683070095295",
+    "project_id": "elmiravaccine-f3e84",
+    "storage_bucket": "elmiravaccine-f3e84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683070095295:android:55b3a905e04bf095ac6b0a",
+        "android_client_info": {
+          "package_name": "com.example.elmira_vaccine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683070095295-9lqp5gosvo07b5368q37vgev46n5uv5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc7YnNlzMWwY4hNSdxvcXByKlQwYq6Y5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683070095295-9lqp5gosvo07b5368q37vgev46n5uv5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
